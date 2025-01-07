@@ -8,6 +8,7 @@
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
     "version": "1.1",
+    "update": "ht",
     "hash": "2ed1348c25c91cb9305b401309a5aa0a3af9c4fe6ec3f48678878c2d0f5e2c24"
   }
 ]
