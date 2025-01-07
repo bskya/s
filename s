@@ -8,7 +8,7 @@
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
     "version": "1.1",
-    "update": "https://server72.dosya.co/cgi-bin/azcl9.cgi/zelvptvoxciqizvcbhqqexrpfujnc3otzmvw6l5bcm/Sketchware%20Pro_v6.4.0-SNAPSHOT-55dc311-minApi26.apk",
+    "update": "https://www.dosya.tc/en2.php?a=server2/5jlegk/Sketchware_Pro_v6.4.0-SNAPSHOT-55dc311-minApi26.apk&b=97da6d741ce3d71995d32c4845400169&c=1736268772",
     "hash": "2ed1348c25c91cb9305b401309a5aa0a3af9c4fe6ec3f48678878c2d0f5e2c24"
   }
 ]
