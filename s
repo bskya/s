@@ -9,6 +9,6 @@
     "owner": "Bilgin - Application Development and Publishing",
     "version": "1.0",
     "update": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/353034621/15552c33-e692-4093-bb7c-5a8e2bd0f442?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250107T165504Z&X-Amz-Expires=300&X-Amz-Signature=7a2928d050dfacbc786da3199dbc9466c744fa45a152f582cdf8af24d835eabd&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DSketchware.Pro.v6.4.0-rc05-minApi26.apk&response-content-type=application%2Fvnd.android.package-archive",
-    "hash": "925f29290f4772f25695c04d83050dcaaefe68721d943a4bc0db705079e3c1d7"
+    "hash": "33d568fd21874cc0c31beaad85e4b6907add806c7a56eca4442f40fffb4f22ff"
   }
 ]
