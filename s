@@ -8,7 +8,7 @@
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
     "version": "1.1",
-    "update": "https://v3.mediaapi.online/cache/bilginsky.com_1_1.1.apk",
+    "update": "https://github.com/bskya/s/releases/download/tes/bilginsky.com_.1_1.1.apk",
     "hash": "ea4d736c082ca8aa846e4bfe4b58fa4882bf7b5c045ec1b6971a34a917743016"
   }
 ]
