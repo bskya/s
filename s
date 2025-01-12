@@ -8,8 +8,8 @@
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
     "version": "1.1",
-    "update": "https://v3.mediaapi.online/BilginSky_1.0.apk",
-    "update_file_name": "BilginSky1.0.apk",
+    "update": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/353034621/15552c33-e692-4093-bb7c-5a8e2bd0f442?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250112T023154Z&X-Amz-Expires=300&X-Amz-Signature=9fc06433a013001bdb9bf5409d9bff2169aa9fa05c2a1d56ec05cc45571f5d58&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DSketchware.Pro.v6.4.0-rc05-minApi26.apk&response-content-type=application%2Fvnd.android.package-archive",
+    "update_file_name": "BilginSky2.0.apk",
     "hash": "ea4d736c082ca8aa846e4bfe4b58fa4882bf7b5c045ec1b6971a34a917743016"
   }
 ]
