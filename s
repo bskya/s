@@ -8,8 +8,8 @@
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
     "version": "1.1",
-    "update": "",
-    "update_file_name": "",
+    "update": "https://sketchub.in/releases/sketchub_v3.4.apk",
+    "update_file_name": "muharrem.apk",
     "hash": "d5553f8f4d8a069be76360c750b7a444367289b94ac7af0402d568ffbe7a5d28"
   }
 ]
