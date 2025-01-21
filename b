@@ -10,6 +10,6 @@
     "version": "1.0",
     "update": "",
     "update_file_name": "",
-    "hash": "b54f618adf77a3ee323644cb664cca3b9ce64d324b7b6b7a9f7af7a79cc1eaf0"
+    "hash": "ff6d310ef8f06c879993f68ea9bf8148a9a87945bd09c7693a60a7a64f3d6673"
   }
 ]
