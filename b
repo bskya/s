@@ -7,9 +7,9 @@
     "size": "61097924",
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
-    "version": "1.0",
+    "version": "1.1",
     "update": "",
     "update_file_name": "",
-    "hash": "10757ebed27a4cd1134688ea639914c0c1610123e103884059c48fde82e72d3a"
+    "hash": "5dad93eefc1909783759d5246488a9b414284ff3d5871fd2b05c3a5df19b1202"
   }
 ]
