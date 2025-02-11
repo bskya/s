@@ -7,9 +7,9 @@
     "size": "61097924",
     "status": "online",
     "owner": "Bilgin - Application Development and Publishing",
-    "version": "1.1",
-    "update": "",
-    "update_file_name": "",
+    "version": "1.2",
+    "update": "https://github.com/kopruluu55/main/raw/refs/heads/main/Ace%20Stream%20Media-3.1.72.1-331r76588.apk",
+    "update_file_name": "bilginsky.com_#1_1.2.apk",
     "hash": "5dad93eefc1909783759d5246488a9b414284ff3d5871fd2b05c3a5df19b1202"
   }
 ]
